@@ -1,3 +1,6 @@
+## [4.0.0] - Oct 27, 2022
+- Bump connectify_plus
+
 ## [3.1.15] - Jul 20, 2022
 
 - Update License Agreement
